@@ -1,4 +1,4 @@
-# ガチで。爆速充電![high-voltage-sign_26a1](https://user-images.githubusercontent.com/72693123/122945727-bbe6bd80-d3b3-11eb-85fd-749e8dd2df69.png)
+# ガチで。爆速充電 ⚡
 
 爆速充電モジュールは、三つバーションがあります。その三つのバーションでも充電を速くなることができる、違うことでは、その速さです。
 
